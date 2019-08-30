@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: my-redis
+site_url: henda.club
+repo_url: https://github.com/example/repository/
+site_description: "redis"
+site_author: rabbit021
